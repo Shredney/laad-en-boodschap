@@ -11,7 +11,11 @@ Eenmalig publiceren via je eigen privé-GitHub-account:
 
 Open die link op je telefoon. Via het browsermenu kun je de app aan het startscherm toevoegen. Je pc hoeft niet aan te blijven. Publicatie via de site-instellingen kan enkele minuten duren.
 
-Werkt: Europese routes, OSM-laadpunten en winkels, routevensters inclusief de laatste uren, ketenfilters, winkeldetails, kopiëren, PWA-appschil. Dekking hangt af van brongegevens.
+De app opent standaard in het Engels met een eenvoudige interface. Via Settings kun je Nederlands kiezen en Advanced mode inschakelen voor alle filters, routevensters, ketenkeuzes en technische opties. Die instellingen blijven bewaard wanneer je de uitgebreide modus weer uitzet.
+Op mobiel blijven Search, Map en Stops onderaan bereikbaar. Vanuit elke laadstop kun je naar de exacte laadpaalcoördinaten navigeren of een wandelroute naar de winkel openen. De beschikbare apps hangen af van je telefoon.
+Bij Near destination toont en sorteert de app op berekende autorijtijd, ook voor locaties met onvolledige laadgegevens. Een aparte pin markeert de bestemming. Onbereikbare of ontbrekende routes krijgen geen verzonnen reistijd. Geen live verkeer of garantie voor tijdelijke/bergwegafsluitingen.
+Werkt verder: Europese routes, OSM-laadpunten en winkels, routevensters inclusief de laatste uren, ketenfilters, winkeldetails, kopiëren, PWA-appschil. Dekking hangt af van brongegevens. Beperkte statistieken zijn gekoppeld aan GoatCounter abelsupermarkt: alleen bezoeken en functiegebruik, zonder pop-ups. Geen vertrekpunten, bestemmingen of zoekgebieden. Uitschakelen kan bij Settings → Usage statistics & privacy; Do Not Track en Global Privacy Control gaan voor. Geen eigen gebruikers-ID of analyticscookies. Bezoekersaantallen zijn schattingen.
+Er is geen broncodedownloadknop in de interface; source.zip blijft als broncode-/licentiebestand in het pakket.
 Deze statische versie gebruikt voor Nederland de ingebedde NDW-momentopname. Live-NDW en serververversing zijn bewust uitgeschakeld; er wordt geen actuele bezetting verzonnen.
 De appschil kan na een eerder bezoek beschikbaar blijven, maar nieuwe kaart-/route-/locatiegegevens vereisen internet. Rechtstreeks openen via file:// op Android vervangt HTTPS-hosting niet betrouwbaar.
 
